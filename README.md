@@ -3,7 +3,8 @@
 Mega City Cab Management System
 Welcome to the Mega City Cab Management System! This project is a powerful and efficient solution to manage customer bookings, calculate bills, and maintain vehicle and driver information for Mega City Cab service in Colombo. It leverages the latest tools and technologies to deliver a seamless and robust experience.
 
-Features
+//Features
+
 Authentication: Secure login system using a username and password.
 
 Add Customer Booking: Record detailed booking information, including:
@@ -28,8 +29,10 @@ Help: Provide guidelines for new users on system usage.
 
 Exit System: Log out securely and close the application.
 
-Prerequisites and Technologies Used
+
+// Prerequisites and Technologies Used
 To develop and run this project, the following tools and technologies are utilized:
+
 
 NetBeans 24: Integrated Development Environment (IDE) for Java development.
 
