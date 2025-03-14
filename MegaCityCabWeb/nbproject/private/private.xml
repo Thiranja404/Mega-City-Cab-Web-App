@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/controller/DriverController.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/driverDashboard.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/dao/CarDAO.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/service/CarService.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/dao/DatabaseConnection.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/manageCars.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/service/UserService.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/dao/DriverDAO.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/manageDrivers.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/controller/CarController.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/service/DriverService.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/welcome.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/model/Booking.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/managerDashboard.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/viewBooking.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/service/BookingService.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/model/LoginResponse.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/addDriver.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/model/User.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/login.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/createBooking.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/controller/AuthController.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/register.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/model/Driver.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/controller/HelpController.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/dao/BookingDAO.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/manageBooking.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/customerDashboard.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/web/updateDriver.jsp</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/model/LoginRequest.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/controller/BookingController.java</file>
+            <file>file:/C:/Users/iamth/OneDrive/Documents/NetBeansProjects/MegaCityCabWeb/src/java/controller/UserController.java</file>
+        </group>
+    </open-files>
+</project-private>
